@@ -6,3 +6,4 @@ Backend latex - opinionated snippets and tools for cross-format shared publicati
 
 Experimental.
 
+**Note** The default branch is `random`.
